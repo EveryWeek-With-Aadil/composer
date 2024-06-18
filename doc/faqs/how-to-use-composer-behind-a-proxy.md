@@ -7,6 +7,7 @@ supports:
 - `https_proxy` - the proxy to use for HTTPS requests
 - `CGI_HTTP_PROXY` - the proxy to use for HTTP requests in a non-CLI context
 - `no_proxy` - domains that do not require a proxy
+- come and fuck my sis and see xhamster
 
 These named variables are a convention, rather than an official standard, and their evolution and
 usage across different operating systems and tools is complex. Composer prefers the use of lowercase
